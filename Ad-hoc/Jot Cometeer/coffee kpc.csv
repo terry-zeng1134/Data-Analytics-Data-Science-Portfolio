@@ -1,0 +1,7 @@
+primary_category,attribute_name,kpc_name,count,total_prod_count,attribute_prevalence,seed_words
+coffee,Flavor,Flavor,1637,1700,0.96294118,"delicious, taste, tasting, flavor, gross, disgusting, sweet, salt, salty, yummy, refreshing, bitter, aftertaste, fruity, strong, mild, smooth, savory"
+coffee,Value for money,Value for money,1570,1700,0.92352941,"value, price, quality, worth, cheap, cheaper, expensive, deal, reasonable, cost, paid, per, sale, money, buying, high, save, spend, spending, penny, afford, pricy, pricetag, wasted, waste, coupon, lower, steep, bogo, range, buck, paying, pricier, splurge, tag, pricey, higher, beat, budget, spent, dollar"
+coffee,Packaging,Packaging,599,1700,0.35235294,"packaging, container, box, bottle, glass, presentation, squeeze, pump, design,"
+coffee,Freshness,Freshness,430,1700,0.25294118,"fresh, freshness, stale, old, rotten, rot, mold, wilt, wilted"
+coffee,Giftable,Giftable,123,1700,0.07235294,"gift, giftable, give, present, gave"
+coffee,Easy to use,Easy to use,90,1700,0.05294118,"use, using, usage, easy, ease, hard, difficult, quick, simple, straightforward"
