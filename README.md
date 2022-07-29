@@ -17,6 +17,7 @@ Repo of any data focused work I've done
 - Returns the seed words used to classify reviews by topic
   - If a topic of a review was classified as the "Price" of the product, the review would contain seed words such as "expensive", "paid", "money", "value", etc...
 - When deciding on whether to invest in a brand, the brand is compared against their competitors on the key purchase criteria derived from the topic outputted from this model
+- The outputs of this model are used to assess product/market fit. [A few samples done on Amazon S3](https://github.com/terry-zeng1134/Portfolio/tree/main/S3%20Spark%20projects/Key%20Purchase%20Criteria)
 
 [3. Customer attribute analysis](https://github.com/terry-zeng1134/Portfolio/blob/main/BQ%20projects/Ad%20hoc/Partake%20Basket_Analysis%20Review_Distribution%20Term_Frequency.ipynb) <- Click here to go to jupyter notebook
 - Portfolio company Partake is deciding between repositioning its messaging towards the better-for-you cookies vs allergen-free cookies market segments
