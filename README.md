@@ -9,7 +9,7 @@ Repo of data related work I've done
     - The idea is that appearing on Sephora/Ulta requires a distribution/marketing partnership between brand & retailer
     - The partnerships gives access to Sephora/Ulta's distribution network, gets an allocation of Sephora/Ulta's marketing budget, and put in front of millions of customers
     - Faster customer growth -> higher revenue expectations -> higher exit valuation
-  - Multiple instances of this Jupyter notebook is ran daily on other modeled value indicators (growth index, product velocity, estimated revenue, new to Target/Walgreens, etc)
+  - Multiple instances of this Jupyter notebook are ran daily on other modeled value indicators (growth index, product velocity, estimated revenue, new to Target/Walgreens, etc)
   - Developed to source early-stage equity investment opportunities
   
 [2. Topic model](https://github.com/terry-zeng1134/Portfolio/blob/main/Topic%20modelling/topic%20model%20v2.ipynb) <- Click here to go to jupyter notebook
