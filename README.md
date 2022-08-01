@@ -10,7 +10,7 @@ Repo of data related work I've done (Python/SQL/BigQuery/S3/PySpark)
     - The partnerships gives access to Sephora/Ulta's distribution network, gets an allocation of Sephora/Ulta's marketing budget, and put in front of millions of customers
     - Faster customer growth -> higher revenue expectations -> higher exit valuation
   - Multiple instances of this Jupyter notebook are ran daily on other modeled value indicators (growth index, product velocity, estimated revenue, new to Target/Walgreens, etc)
-  - Developed to source early-stage equity investment opportunities
+  - Developed to source early-stage equity investment opportunities using [CircleUp Helio](https://circleup.com/helio)
   
 [2. Topic model](https://github.com/terry-zeng1134/Portfolio/blob/main/Topic%20modelling/topic%20model%20v2.ipynb) <- Click here to go to jupyter notebook
 - Computes the [key purchase critiera](https://redfworkshop.org/learn/key-purchasing-criteria/) of a particular parent category (food, beverages), primary category (soft drinks, non-dairy milks), and product categories (kombucha, energy drinks) based on customer reviews
