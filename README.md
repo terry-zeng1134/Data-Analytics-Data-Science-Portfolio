@@ -1,5 +1,5 @@
 # Portfolio of my data analytics/data science projects
-Repo of data related work I've done
+Repo of data related work I've done (Python/SQL/BigQuery/S3/PySpark)
 
 ### Highlights
 
